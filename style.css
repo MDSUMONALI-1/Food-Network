@@ -1,0 +1,41 @@
+section{
+    background-image:url(images/shapes/Group\ 8450.png), ;
+    display: flex;
+}
+body{font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+span{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.food{
+   text-align: center;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+   box-shadow: ghostwhite 10px 10px 10px;
+
+}
+.hyperlink{
+    text-decoration: none;
+ background-color: orangered;
+}
+#top-banner{
+    background-image:url(images/shapes/7.png) ;
+    background-repeat:no-repeat;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
+#my-recipie{
+    text-align: center;
+}
